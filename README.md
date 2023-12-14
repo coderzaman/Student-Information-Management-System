@@ -1,4 +1,5 @@
 **Student Management System**
+
 Welcome to the Student Management System! This Java application is designed for efficient student data management. Follow the steps below to set up and run the project.
 
 **Prerequisites**
@@ -39,7 +40,7 @@ Follow these steps, and you'll be up and running with the Student Management Sys
 
 Contributions are welcome! Feel free to fork the project, make improvements, and create pull requests.
 
-If you encounter any issues or have suggestions, please report them on the [Issues](link-to-issues) page.
+If you encounter any issues or have suggestions, message me on github.
 
 
 Copyright: 
