@@ -37,14 +37,14 @@ Before running the project, ensure you have the following:
    Select Main class as MainPage.class while firstly compile this code.
 Follow these steps, and you'll be up and running with the Student Management System in no time! 📚💻🚀
 
-## Contribution
+**Contribution**
 
 Contributions are welcome! Feel free to fork the project, make improvements, and create pull requests.
 
 If you encounter any issues or have suggestions, message me on github.
 
 
-**Copyright: **
+**Copyright**
 
 Coderzaman
                                                                                                                                                                                                                                                            
