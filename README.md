@@ -3,6 +3,7 @@
 Welcome to the Student Management System! This Java application is designed for efficient student data management. Follow the steps below to set up and run the project.
 
 **Prerequisites**
+
 Before running the project, ensure you have the following:
 - MySQL Database
 - `studentmangementsystem.sql` database file (already added here)
